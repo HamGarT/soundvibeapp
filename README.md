@@ -1,5 +1,11 @@
 # SoundVibe
 
+<p align="center">
+  <img src="screenshots/screenshot_1.jpeg" width="230" alt="Vista de la pantalla de reproducción">
+  <img src="screenshots/screenshot_5.jpeg" width="230" alt="Reproductor con letras sincronizadas en tiempo real">
+  <img src="screenshots/screenshot_2.jpeg" width="230" alt="Vista del ecualizador">
+</p>
+
 **Escucha lo que escuchas, al mismo tiempo.**
 
 SoundVibe es una app Android que convierte tu música local en una sesión de escucha
