@@ -31,35 +31,35 @@ solo se conectan a tu sesión, no a tu biblioteca.
 
 ### Reproducción
 
-![Vista de la pantalla de reproducción](screenshots/screenshot_1.jpeg)
+<img src="screenshots/screenshot_1.jpeg" width="250" alt="Vista de la pantalla de reproducción">
 
 ### Ecualizador
 
-![Vista del ecualizador](screenshots/screenshot_2.jpeg)
+<img src="screenshots/screenshot_2.jpeg" width="250" alt="Vista del ecualizador">
 
 ### Inicio
 
-![Pantalla de inicio (Home)](screenshots/screenshot_3.jpeg)
+<img src="screenshots/screenshot_3.jpeg" width="250" alt="Pantalla de inicio (Home)">
 
 ### Álbumes
 
-![Vista en cuadrícula de los álbumes](screenshots/screenshot_4.jpeg)
+<img src="screenshots/screenshot_4.jpeg" width="250" alt="Vista en cuadrícula de los álbumes">
 
 ### Letras en tiempo real
 
-![Reproductor con letras sincronizadas en tiempo real](screenshots/screenshot_5.jpeg)
+<img src="screenshots/screenshot_5.jpeg" width="250" alt="Reproductor con letras sincronizadas en tiempo real">
 
 ### Amigos
 
-![Pantalla de amigos](screenshots/screenshot_6.jpeg)
+<img src="screenshots/screenshot_6.jpeg" width="250" alt="Pantalla de amigos">
 
 ### Top canciones
 
-![Top canciones más escuchadas](screenshots/screenshot_7.jpeg)
+<img src="screenshots/screenshot_7.jpeg" width="250" alt="Top canciones más escuchadas">
 
 ### Personalización
 
-![Vista de personalización de la app](screenshots/screenshot_9.jpeg)
+<img src="screenshots/screenshot_9.jpeg" width="250" alt="Vista de personalización de la app">
 
 ---
 
