@@ -35,37 +35,55 @@ solo se conectan a tu sesión, no a tu biblioteca.
 
 ## Capturas de pantalla
 
-### Reproducción
-
-<img src="screenshots/screenshot_1.jpeg" width="250" alt="Vista de la pantalla de reproducción">
-
-### Ecualizador
-
-<img src="screenshots/screenshot_2.jpeg" width="250" alt="Vista del ecualizador">
-
-### Inicio
-
-<img src="screenshots/screenshot_3.jpeg" width="250" alt="Pantalla de inicio (Home)">
-
-### Álbumes
-
-<img src="screenshots/screenshot_4.jpeg" width="250" alt="Vista en cuadrícula de los álbumes">
-
-### Letras en tiempo real
-
-<img src="screenshots/screenshot_5.jpeg" width="250" alt="Reproductor con letras sincronizadas en tiempo real">
-
-### Amigos
-
-<img src="screenshots/screenshot_6.jpeg" width="250" alt="Pantalla de amigos">
-
-### Top canciones
-
-<img src="screenshots/screenshot_7.jpeg" width="250" alt="Top canciones más escuchadas">
-
-### Personalización
-
-<img src="screenshots/screenshot_9.jpeg" width="250" alt="Vista de personalización de la app">
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="screenshots/screenshot_1.jpeg" width="230" alt="Vista de la pantalla de reproducción">
+      <br><br>
+      <b>Reproducción</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="screenshots/screenshot_2.jpeg" width="230" alt="Vista del ecualizador">
+      <br><br>
+      <b>Ecualizador</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="screenshots/screenshot_3.jpeg" width="230" alt="Pantalla de inicio (Home)">
+      <br><br>
+      <b>Inicio</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="screenshots/screenshot_4.jpeg" width="230" alt="Vista en cuadrícula de los álbumes">
+      <br><br>
+      <b>Álbumes</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="screenshots/screenshot_5.jpeg" width="230" alt="Reproductor con letras sincronizadas en tiempo real">
+      <br><br>
+      <b>Letras en tiempo real</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="screenshots/screenshot_6.jpeg" width="230" alt="Pantalla de amigos">
+      <br><br>
+      <b>Amigos</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="screenshots/screenshot_7.jpeg" width="230" alt="Top canciones más escuchadas">
+      <br><br>
+      <b>Top canciones</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="screenshots/screenshot_9.jpeg" width="230" alt="Vista de personalización de la app">
+      <br><br>
+      <b>Personalización</b>
+    </td>
+    <td align="center" width="33%"></td>
+  </tr>
+</table>
 
 ---
 
